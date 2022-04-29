@@ -1,0 +1,26 @@
+build/
+target/
+bin/
+out/
+logs/
+log/
+.idea/
+.metadata/
+.mymetadata/
+.myeclipse/
+.settings/
+.classpath
+.spingBeans
+*.iml
+*.template
+*.log
+.recommenders/
+.project
+
+.gradle/
+gradle/
+gradlew
+
+*\ *.*
+*.class
+.DS_Store
